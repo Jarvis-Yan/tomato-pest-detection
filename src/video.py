@@ -1,5 +1,17 @@
 import cv2
 
+"""
+摄像头/RTSP视频流采集与显示脚本
+
+功能：
+- 连接RTSP摄像头流
+- 实时显示视频画面
+- 支持ESC键退出
+
+依赖：
+- OpenCV (cv2)：视频流采集与显示
+"""
+
 # 摄像头 RTSP 地址（高清码流 /11）
 rtsp_url = "rtsp://192.168.0.101/11"
 
@@ -18,7 +30,7 @@ while True:
         print("警告：无法获取画面")
         break
 
-    # 显示画面（如果后续用YOLO检测，可以在这里处理 frame）
+    # 实时显示画面（可在此处插入YOLO检测等处理）
     cv2.imshow("Tomato Camera Stream", frame)
 
     # 按 ESC 键退出
