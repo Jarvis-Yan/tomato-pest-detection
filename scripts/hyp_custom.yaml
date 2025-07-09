@@ -1,0 +1,33 @@
+# hyper-params for YOLOv8, 包含网络、loss、增强等
+lr0: 0.01
+lrf: 0.01
+momentum: 0.937
+weight_decay: 0.0005
+
+# 几何／拼图增强
+mosaic: 1.0
+mixup: 0.5
+copy_paste: 0.5
+auto_augment: randaugment
+
+# 几何变换
+degrees: 45.0
+translate: 0.2
+scale: 0.5
+shear: 0.0
+perspective: 0.0
+flipud: 0.5
+fliplr: 0.5
+
+# 光度变换
+hsv_h: 0.015
+hsv_s: 0.7
+hsv_v: 0.4
+
+# 遮挡 / 擦除
+erasing: 0.4
+
+# loss 权重（可按需调整）
+box: 7.5
+cls: 0.5
+dfl: 1.5

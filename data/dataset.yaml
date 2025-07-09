@@ -1,0 +1,14 @@
+train: /home/yjr/下载/qianrushi/dataset/images/train
+val: /home/yjr/下载/qianrushi/dataset/images/val
+nc: 9
+names:
+- healthy
+- mosaic_virus
+- early_blight
+- late_blight
+- septoria
+- yellow_leaf_curl_virus
+- leaf_mold
+- leaf_miner
+- spider_mites
+test: /home/yjr/下载/qianrushi/dataset/images/test

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="嵌入式服务器终端" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="yjr@114.96.80.63:2006 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yjr/下载/qianrushi" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
