@@ -106,7 +106,6 @@ python stream_processor.py \
 <p align="center"><strong>板端显示</strong><br>
 <img src="docs/assets/demo_board.GIF" width="260"></p>
 
-
 ---
 
 ## 3. 常见问题
