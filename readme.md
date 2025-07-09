@@ -1,7 +1,10 @@
 # 番茄病虫害识别系统 —— 图像推理子系统 (ELF2 GW3588)
 
 本文件仅覆盖 **图像识别后端**（NPU + YOLOv8）的使用方法。  
-传感器 / STM32 与前端页面请见 `docs/` 目录或相应仓库。
+
+传感器／STM32 代码请见 <https://github.com/changchang-max/SCMproject>，
+
+前端页面请见 <https://github.com/changchang-max/web>。
 
 ---
 
