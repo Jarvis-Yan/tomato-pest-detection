@@ -101,15 +101,15 @@ python stream_processor.py \
   <tr>
     <td align="center">
       <strong>机体巡航</strong><br>
-      <img src="docs/assets/demo_vehicle.gif" width="260">
+      <img src="docs/assets/demo_vehicle.GIF" width="260">
     </td>
     <td align="center">
       <strong>实时识别</strong><br>
-      <img src="docs/assets/demo_inference.gif" width="260">
+      <img src="docs/assets/demo_inference.GIF" width="260">
     </td>
     <td align="center">
       <strong>板端显示</strong><br>
-      <img src="docs/assets/demo_board.gif" width="260">
+      <img src="docs/assets/demo_board.GIF" width="260">
     </td>
   </tr>
 </table>
