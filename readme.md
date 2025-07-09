@@ -97,24 +97,15 @@ python stream_processor.py \
 
 ## 🚀 Demo
 
-<table>
-  <tr>
-    <td align="center">
-      <strong>机体巡航</strong><br>
-      <img src="docs/assets/demo_vehicle.GIF" width="260">
-    </td>
-    <td align="center">
-      <strong>实时识别</strong><br>
-      <img src="docs/assets/demo_inference.GIF" width="260">
-    </td>
-    <td align="center">
-      <strong>板端显示</strong><br>
-      <img src="docs/assets/demo_board.GIF" width="260">
-    </td>
-  </tr>
-</table>
+<p align="center"><strong>机体巡航</strong><br>
+<img src="docs/assets/demo_vehicle.GIF" width="260"></p>
 
-> 所有 GIF 均已压缩至 **&lt; 10 MB**，放置在 `docs/assets/`，确保在线 / 离线均可预览。
+<p align="center"><strong>实时识别</strong><br>
+<img src="docs/assets/demo_inference.GIF" width="260"></p>
+
+<p align="center"><strong>板端显示</strong><br>
+<img src="docs/assets/demo_board.GIF" width="260"></p>
+
 
 ---
 
